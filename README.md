@@ -1,16 +1,24 @@
-## Hi there 👋
+# Olá, eu sou Rudson Charlles! 👋
 
-<!--
-**Rudson-Charlles/Rudson-Charlles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou apaixonado por análise de dados utilizando Power BI e Python, atualmente estou aprofundando meus conhecimentos em SQL. Estou sempre em busca de novas oportunidades para aplicar minhas habilidades e aprender mais sobre a área de análise de dados.
 
-Here are some ideas to get you started:
+## 🚀 Minhas habilidades
+- **Ferramentas:** Power BI
+- **Linguagens:** Python, SQL (em estudo)
+- **Áreas de Interesse:** Análise de Dados, Visualização de Dados, ETL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Projetos em andamento 
+- **Análise de Preços dos Combustíveis:** Utilizando dados públicos para analisar tendências e variações nos preços dos combustíveis.
+- **Covid-19 Data Analysis:** Projeto utilizando API para coletar e analisar dados sobre a pandemia de Covid-19.
+
+## 📈 Estatísticas do GitHub
+![Rudson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rudson-Charlles&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rudson-Charlles&layout=compact&theme=radical)
+
+## 📫 Como me encontrar
+- [LinkedIn](https://www.linkedin.com/in/rudson-charlles-084795223/)
+- [Email](rcharlles.dev@gmail.com)
+
+---
+
+

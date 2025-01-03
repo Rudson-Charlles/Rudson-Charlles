@@ -14,9 +14,8 @@ Este projeto consiste no desenvolvimento de um painel interativo no Power BI par
 - Análise de Faturamento por período e por produto.
 - Comparação com o ano anterior (YoY).
 - Indicadores de Ticket Médio e Quantidade de Pedidos.
-- Visualização de sazonalidade e tendências.
 
-[Veja o projeto completo no repositório](https://github.com/seu-usuario/painel-comercial-powerbi)
+[Veja o projeto completo no repositório](https://github.com/Rudson-Charlles/Portifolio.git)
 
 ## 📈 Estatísticas do GitHub
 ![Rudson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rudson-Charlles&show_icons=true&theme=radical)

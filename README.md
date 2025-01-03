@@ -7,9 +7,16 @@ Sou apaixonado por análise de dados utilizando Power BI e Python, atualmente es
 - **Linguagens:** Python, SQL (em estudo)
 - **Áreas de Interesse:** Análise de Dados, Visualização de Dados, ETL
 
-## 🔭 Projetos em andamento 
-- **Análise de Preços dos Combustíveis:** Utilizando dados públicos para analisar tendências e variações nos preços dos combustíveis.
-- **Covid-19 Data Analysis:** Projeto utilizando API para coletar e analisar dados sobre a pandemia de Covid-19.
+## 🔭 Projetos
+### **Painel Comercial - Power BI**
+Este projeto consiste no desenvolvimento de um painel interativo no Power BI para análise comercial.  
+**Funcionalidades**:
+- Análise de Faturamento por período e por produto.
+- Comparação com o ano anterior (YoY).
+- Indicadores de Ticket Médio e Quantidade de Pedidos.
+- Visualização de sazonalidade e tendências.
+
+[Veja o projeto completo no repositório](https://github.com/seu-usuario/painel-comercial-powerbi)
 
 ## 📈 Estatísticas do GitHub
 ![Rudson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rudson-Charlles&show_icons=true&theme=radical)
@@ -17,8 +24,6 @@ Sou apaixonado por análise de dados utilizando Power BI e Python, atualmente es
 
 ## 📫 Como me encontrar
 - [LinkedIn](https://www.linkedin.com/in/rudson-charlles-084795223/)
-- [Email](rcharlles.dev@gmail.com)
+- [Email](mailto:rcharlles.dev@gmail.com)
 
 ---
-
-

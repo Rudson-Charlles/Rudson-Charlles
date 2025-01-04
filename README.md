@@ -15,7 +15,7 @@ Este projeto consiste no desenvolvimento de um painel interativo no Power BI par
 - Comparação com o ano anterior (YoY).
 - Indicadores de Ticket Médio e Quantidade de Pedidos.
 
-[Veja o projeto completo no repositório](https://github.com/Rudson-Charlles/Portifolio.git)
+[Veja o projeto completo no repositório](https://github.com/Rudson-Charlles/Comercial.git)
 
 ## 📈 Estatísticas do GitHub
 ![Rudson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rudson-Charlles&show_icons=true&theme=radical)
